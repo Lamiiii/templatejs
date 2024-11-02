@@ -1,0 +1,48 @@
+.wrapper-text {
+  border: 2px solid black;
+  width: 500px;
+  height: fit-content;
+}
+
+.common {
+  padding: 18px;
+  margin: 8px;
+  border: 1px solid rgb(119, 118, 118);
+  color: aliceblue;
+  text-align: center;
+  font-size: 18px;
+}
+
+.app-header {
+  background-color: red;
+}
+
+.primary-nav {
+  background-color: rgb(89, 168, 237);
+}
+
+.primary-element {
+  display: flex;
+}
+
+.content {
+  padding: 25px;
+  width: 200px;
+}
+.main-content {
+  background-color: yellowgreen;
+}
+
+.content-block {
+  background-color: orange;
+}
+
+.aside {
+  background-color: rgb(234, 101, 123);
+  padding: 65px;
+  width: 82px;
+}
+
+.app-footer {
+  background-color: gray;
+}
